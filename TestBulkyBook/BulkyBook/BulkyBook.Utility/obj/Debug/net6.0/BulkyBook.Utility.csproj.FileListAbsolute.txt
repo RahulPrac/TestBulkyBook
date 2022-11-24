@@ -1,0 +1,24 @@
+C:\Rahul Softwares\Udemay\Sample Project Prac\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.deps.json
+C:\Rahul Softwares\Udemay\Sample Project Prac\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.dll
+C:\Rahul Softwares\Udemay\Sample Project Prac\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.pdb
+C:\Rahul Softwares\Udemay\Sample Project Prac\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.csproj.AssemblyReference.cache
+C:\Rahul Softwares\Udemay\Sample Project Prac\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rahul Softwares\Udemay\Sample Project Prac\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+C:\Rahul Softwares\Udemay\Sample Project Prac\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.AssemblyInfo.cs
+C:\Rahul Softwares\Udemay\Sample Project Prac\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+C:\Rahul Softwares\Udemay\Sample Project Prac\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.dll
+C:\Rahul Softwares\Udemay\Sample Project Prac\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\refint\BulkyBook.Utility.dll
+C:\Rahul Softwares\Udemay\Sample Project Prac\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.pdb
+C:\Rahul Softwares\Udemay\Sample Project Prac\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\ref\BulkyBook.Utility.dll
+C:\Rahul Softwares\GitHub\GitHub\TestBulkyBook\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.deps.json
+C:\Rahul Softwares\GitHub\GitHub\TestBulkyBook\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.dll
+C:\Rahul Softwares\GitHub\GitHub\TestBulkyBook\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.pdb
+C:\Rahul Softwares\GitHub\GitHub\TestBulkyBook\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.csproj.AssemblyReference.cache
+C:\Rahul Softwares\GitHub\GitHub\TestBulkyBook\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rahul Softwares\GitHub\GitHub\TestBulkyBook\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+C:\Rahul Softwares\GitHub\GitHub\TestBulkyBook\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.AssemblyInfo.cs
+C:\Rahul Softwares\GitHub\GitHub\TestBulkyBook\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+C:\Rahul Softwares\GitHub\GitHub\TestBulkyBook\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.dll
+C:\Rahul Softwares\GitHub\GitHub\TestBulkyBook\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\refint\BulkyBook.Utility.dll
+C:\Rahul Softwares\GitHub\GitHub\TestBulkyBook\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.pdb
+C:\Rahul Softwares\GitHub\GitHub\TestBulkyBook\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\ref\BulkyBook.Utility.dll
